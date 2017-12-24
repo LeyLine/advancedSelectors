@@ -6,3 +6,15 @@
 ul em {
   color: red
 }
+
+div {
+  background-color: green;
+}
+
+#former {
+ background-color: red;
+}
+
+#former + div {
+  background-color: yellow;
+}
